@@ -11,18 +11,19 @@
 <p align="center">
   <a href="https://github.com/M2NVMe"><img src="https://img.shields.io/github/followers/M2NVMe?style=social"></a>
   <a href="mailto:m2nvme@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.roblox.com/users/322005936/profile"><img src="https://img.shields.io/badge/Roblox-@M2NVMe-red?logo=roblox&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/bumi-bagus-wiraguna-59808130a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **cool personal and open source projects**
+- 🔭 I’m currently working on **something amazing**
 - 🌱 I’m always learning **new tech stacks and frameworks**
 - 👯 I’m looking to collaborate on **innovative projects**
-- 💬 Ask me about **Flutter, Web Dev, or anything tech**
-- ⚡ Fun fact: I love exploring the intersection of code and creativity!
+- 💬 Ask me something about **Flutter, Web Dev, or anything tech**
+- ⚡ Fun fact: I mostly model on Roblox Studio, but i do code too!
 
 ---
 
