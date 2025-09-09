@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm M2NVMe 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Roblox+Developer;Mobile+App+Developer;Web-Based+Developer;Full-Stack+Developer;" alt="Typing SVG" />
 </p>
 
 <p align="center">
